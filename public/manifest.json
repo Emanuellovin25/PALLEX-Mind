@@ -1,0 +1,18 @@
+{
+  "name": "Pall-Ex Mind",
+  "short_name": "Pall-Ex Mind",
+  "description": "Asistentul tău AI offline – Pall-Ex",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "orientation": "portrait",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

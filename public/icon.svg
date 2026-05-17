@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#000000"/>
+  <!-- PALL -->
+  <text x="48" y="300" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="148" fill="#FFFFFF" letter-spacing="-4">PALL</text>
+  <!-- Red triangle (arrow) -->
+  <polygon points="312,152 312,312 400,232" fill="#CC0000"/>
+  <!-- EX -->
+  <text x="392" y="300" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="148" fill="#FFFFFF" letter-spacing="-4">EX</text>
+  <!-- Mind subtitle -->
+  <text x="256" y="380" font-family="Arial, sans-serif" font-weight="400" font-size="52" fill="#888888" text-anchor="middle" letter-spacing="8">MIND</text>
+</svg>
